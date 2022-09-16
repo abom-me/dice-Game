@@ -1,6 +1,6 @@
 # Dice-Game
- Dice Game, It's So Sample you can use it to laearn about SetState or How to make action by buttons.
- 
+Dice Game, It's Sample you can use it to learn about SetState or How to make action by buttons.
+
  Preview:
  
  
